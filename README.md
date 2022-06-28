@@ -156,6 +156,24 @@ Los temas que se cubrirán en el programa son los siguientes:
 - Hoja de Vida.
 - Cómo encontrar tu primer empleo.
 
+## Currículo Inglés
+
+- Hard skills in IT.
+- Soft skills in IT / Strengths and weaknesess.
+- Career goals.
+- Study and work experience, language and layout of a cover letter.
+- Agile
+- Scrum
+- Possible interview questions for Scrum.
+- Personal introduction, company activities and big numbers.
+- Giving local information, giving advice and talking about past experiences.
+- Making arrangements, making questions, giving your opinion.
+- How is an interview conducted?
+- What are they going to ask me?
+- Elevator pitch.
+- Preparation for final task.
+- Job market roleplay with elevator pitch and cover letter.
+
 ## Plataformas y herramientas
 
 Durante el programa vamos a utilizar varias plataformas y herramientas para acelerar el aprendizaje:
