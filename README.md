@@ -1,6 +1,6 @@
-# Programa TOP (Tiempo Completo) - Syllabus
+# Programa TOP (Tiempo Parcial) - Syllabus
 
-El programa TOP tiene una duración de 15 semanas tiempo completo y está dirigido a personas con lógica de programación y conocimientos básicos de desarrollo Web que deseen obtener el entrenamiento necesario para desenvolverse de manera profesional como desarrollador@s Web y/o móvil.
+El programa TOP tiene una duración de 30 semanas tiempo parcial y está dirigido a personas con lógica de programación y conocimientos básicos de desarrollo Web que deseen obtener el entrenamiento necesario para desenvolverse de manera profesional como desarrollador@s Web y/o móvil.
 
 Además del entrenamiento técnico, durante el programa los estudiantes refuerzan Inglés, habilidades transversales (trabajo en equipo, comunicación, etc.) y aprenderán a mejorar su perfil digital (LinkedIn, CV, Github, etc.).
 
@@ -26,25 +26,33 @@ El programa está dividido en 3 fases:
 
 ### Onboarding
 
-La fase de nivelación tiene una duración de 3 semanas. Durante esta fase vas a aprender (o reforzar) Scrum, lo básico de React, Node.js y Express.
+La fase de nivelación tiene una duración de 6 semanas. Durante esta fase vas a aprender (o reforzar) Git, JavaScript (ESNext), HTML y CSS (Responsive Design, Flexbox), React, Node.js y Express.
 
-A primera hora en la mañana realizarás un reto de HTML y CSS en parejas que te tomará aproximadamente 1 hora. Luego deberás avanzar en el contenido, que tiene algunos retos que debes completar. En la tarde solucionarás otro reto de JS y continuarás avanzando en el contenido y en los retos.
+Los horarios son los siguientes (en UTC-5: Colombia, Perú):  
 
-Al final del onboarding deberás completar una evaluación de desempeño. Si no la pasas serás retirado del programa pero podrás intentarlo nuevamente en el siguiente grupo.
+* **Lunes, Miércoles y Viernes de 6:00pm a 8:00pm →** Sesión sincrónica por video llamada.
+* **Martes y Jueves de 6:00pm a 8:00pm →** Estudio individual con disponibilidad de mentores.
+* **Fines de semana →** Estudio individual.
+
+En cada sesión realizarás un reto de HTML y CSS o de JavaScript que te tomará aproximadamente 1 hora y media. Luego se tendrá una discusión para solucionar dudas y discutir mejores prácticas.
+
+Los Martes, Jueves y fines de semana deberás avanzar con el contenido.
+
+Al final del onboarding deberás completar una evaluación de desempeño. Si no la pasas serás retirado del programa, aunque podrás intentarlo nuevamente en el siguiente grupo.
 
 ### Fase Principal
 
 La fase principal está dividida en 12 sprints y cada estudiante debe entregar dos proyectos: un proyecto grupal que se construye durante los primeros 10 sprints y un proyecto personal que se entrega al final del sprint 12.
 
-Adicionalmente tendrán una hora de Inglés y una hora de habilidades blandas y preparación laboral.
+Cada sprint tiene una duración de 2 semanas.
 
-La estructura de un día normal del programa es la siguiente:
+Adicionalmente tendrás una hora de Inglés o una hora de habilidades blandas y preparación laboral a la semana.
 
-- 8:30am a 10:00am → Sesión con mentor principal.
-- 10:00am a 12:30pm → Trabajo en equipo o individual.
-- 2:30pm a 3:30pm → Sesión con mentor principal.
-- 3:30pm a 6:30pm → Trabajo en equipo o individual.
-- 6:30pm → Investigación individual.
+Los horarios son los siguientes (en UTC-5: Colombia, Perú): 
+
+* **Lunes, Miércoles y Jueves de 6:00pm a 8:00pm →** Sesión sincrónica por video llamada.
+* **Martes y Viernes de 6:00pm - 8:00pm →** Trabajo en equipo o individual con disponibilidad de mentores.
+* **Fines de semana →** Trabajo en equipo o individual.
 
 Adicional a los proyectos los estudiantes deben aprobar 4 assesments para culminar satisfactoriamente esta fase.
 
@@ -60,46 +68,42 @@ Los temas que se cubrirán en el programa son los siguientes:
 
 - Scrum
 - Git Workflows
-- Node.js
-- ECMAScript Next
+- API's del Navegador
+- ECMAScript Asincronismo
 
 ### Sprint 2
 
 - Pruebas automatizadas con Jest
 - Prettier y Linter
-- Responsive Design
-- Flexbox
 - Saas
+- Estilos en React
 
 ### Sprint 3
 
-- React
+- React Hooks
 - React Router
-- Estilos en React
-- El protocolo HTTP
-- AJAX y JSON
+- React Context
+- Pruebas automatizadas con React Testing Library
+- Despliegue Frontend
 
 ### Sprint 4
 
-- React Hooks
-- React Context
 - Redux
 - Redux Thunk
-- Despliegue en Netlify
-- React Testing Library
+- Redux Toolkit
 
 ### Sprint 5
 
 - Introducción a Bases de Datos
-- MongoDB
 - Diseño de Bases de Datos
-- Introducción a TypeScript (Node)
-- Creación de API’s con Express y Mongoose
+- Sequalize: Bases de Datos Relacionales
+- Creación de API’s con Express (CRUD)
 
 ### Sprint 6
 
+- Intro a TypeScript (Node)
 - Autenticación y Autorización (JWT)
-- Despligue a Heroku
+- Despligue Backend
 - Pruebas automatizadas
 
 ### Sprint 7
@@ -132,7 +136,7 @@ Los temas que se cubrirán en el programa son los siguientes:
 
 ### Sprint 11
 
-- Sequelize: Bases de datos relacionales
+- MongoDB y Mongoose
 - GraphQL
 - Apollo Server - Client
 
