@@ -1,6 +1,6 @@
 # Programa TOP (Tiempo Completo) - Syllabus
 
-El programa TOP tiene una duración de 12 semanas tiempo completo y está dirigido a personas con lógica de programación y conocimientos básicos de desarrollo Web que deseen obtener el entrenamiento necesario para desenvolverse de manera profesional como desarrollador@s Web y/o móvil.
+El programa TOP tiene una duración de 15 semanas tiempo completo y está dirigido a personas con lógica de programación y conocimientos básicos de desarrollo Web que deseen obtener el entrenamiento necesario para desenvolverse de manera profesional como desarrollador@s Web y/o móvil.
 
 Además del entrenamiento técnico, durante el programa los estudiantes refuerzan Inglés, habilidades transversales (trabajo en equipo, comunicación, etc.) y aprenderán a mejorar su perfil digital (LinkedIn, CV, Github, etc.).
 
@@ -20,17 +20,17 @@ Además, y quizá el requerimiento más importante del programa, es desarrollar 
 
 El programa está dividido en 3 fases:
 
-- Fase de Nivelación
+- Onboarding
 - Fase Principal
 - Post programa
 
-### Fase de Nivelación
+### Onboarding
 
-La fase de nivelación tiene una duración de 3 semanas y cada estudiante la completa a su propio ritmo a través de nuestra plataforma de aprendizaje.
+La fase de nivelación tiene una duración de 3 semanas. Durante esta fase vas a aprender (o reforzar) Scrum, lo básico de React, Node.js y Express.
 
-Durante esta fase vas a aprender (o reforzar) HTML y CSS, JavaScript en el Navegador y Git.
+A primera hora en la mañana realizarás un reto de HTML y CSS en parejas que te tomará aproximadamente 1 hora. Luego deberás avanzar en el contenido, que tiene algunos retos que debes completar. En la tarde solucionarás otro reto de JS y continuarás avanzando en el contenido y en los retos.
 
-Los jueves a las 5pm tendremos una hora de solución de dudas a través de video llamada.
+Al final del onboarding deberás completar una evaluación de desempeño. Si no la pasas serás retirado del programa pero podrás intentarlo nuevamente en el siguiente grupo.
 
 ### Fase Principal
 
